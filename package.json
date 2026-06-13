@@ -1,0 +1,24 @@
+{
+  "name": "com.neonalig.gameevents.unitask",
+  "version": "1.0.0",
+  "displayName": "Neonalig Game Event System - UniTask",
+  "description": "A UniTask extension for the Neonalig Game Event System, providing asynchronous event handling capabilities using the UniTask library.",
+  "unity": "2021.3",
+  "keywords": [
+    "game events",
+    "event system",
+    "event bus",
+    "inspector",
+    "editor",
+    "extensions",
+    "async",
+    "UniTask"
+  ],
+  "author": {
+    "name": "Neonalig"
+  },
+  "dependencies": {
+    "com.neonalig.gameevents": "1.1.0",
+    "com.cysharp.unitask": "2.5.10"
+  }
+}
